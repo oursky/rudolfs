@@ -7,3 +7,4 @@
 /.blackbox/pubring.kbx~
 /.blackbox/secring.gpg
 /k8s-resources.yaml
+/auth

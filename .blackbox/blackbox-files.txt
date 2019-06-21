@@ -1,1 +1,2 @@
+auth
 k8s-resources.yaml
